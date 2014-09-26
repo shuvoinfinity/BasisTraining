@@ -1,0 +1,10 @@
+D:\VSProjects\DailyEntry\DailyEntry\bin\Debug\DailyEntry.exe.config
+D:\VSProjects\DailyEntry\DailyEntry\bin\Debug\DailyEntry.exe
+D:\VSProjects\DailyEntry\DailyEntry\bin\Debug\DailyEntry.pdb
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.csprojResolveAssemblyReference.cache
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.DailyEntryUI.resources
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.Properties.Resources.resources
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.csproj.GenerateResource.Cache
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.exe
+D:\VSProjects\DailyEntry\DailyEntry\obj\Debug\DailyEntry.pdb
+D:\VSProjects\DailyEntry\DailyEntry\bin\Debug\CSVLib.dll

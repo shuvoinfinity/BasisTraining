@@ -1,0 +1,9 @@
+D:\VSProjects\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe.config
+D:\VSProjects\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe
+D:\VSProjects\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.pdb
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.frmOperation.resources
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Properties.Resources.resources
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csproj.GenerateResource.Cache
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.exe
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.pdb
+D:\VSProjects\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csprojResolveAssemblyReference.cache

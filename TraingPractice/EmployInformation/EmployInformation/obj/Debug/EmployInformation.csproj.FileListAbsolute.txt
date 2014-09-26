@@ -1,0 +1,11 @@
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe
+D:\VSProjects\EmployInformation\EmployInformation\bin\Debug\EmployInformation.pdb
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.InformationUI.resources
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.Properties.Resources.resources
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.csproj.GenerateResource.Cache
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+D:\VSProjects\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
+D:\VSProjects\TraingPractice\EmployInformation\EmployInformation\bin\Debug\EmployInformation.exe.config
+D:\VSProjects\TraingPractice\EmployInformation\EmployInformation\obj\Debug\EmployInformation.exe
+D:\VSProjects\TraingPractice\EmployInformation\EmployInformation\obj\Debug\EmployInformation.pdb
