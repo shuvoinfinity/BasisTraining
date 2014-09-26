@@ -1,0 +1,9 @@
+D:\VSProjects\PersonUIApp\PersonUIApp\bin\Debug\PersonUIApp.exe.config
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.csprojResolveAssemblyReference.cache
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.PersonInfoForm.resources
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.Properties.Resources.resources
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.csproj.GenerateResource.Cache
+D:\VSProjects\PersonUIApp\PersonUIApp\bin\Debug\PersonUIApp.exe
+D:\VSProjects\PersonUIApp\PersonUIApp\bin\Debug\PersonUIApp.pdb
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.exe
+D:\VSProjects\PersonUIApp\PersonUIApp\obj\Debug\PersonUIApp.pdb
