@@ -1,0 +1,6 @@
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\bin\Debug\CircleConsoleApp.exe.config
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\bin\Debug\CircleConsoleApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\bin\Debug\CircleConsoleApp.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\obj\Debug\CircleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\obj\Debug\CircleConsoleApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\Git\BasisTraining\CircleConsoleApp\CircleConsoleApp\obj\Debug\CircleConsoleApp.pdb
