@@ -1,0 +1,12 @@
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\bin\Debug\BankApp.exe.config
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\bin\Debug\BankApp.exe
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\bin\Debug\BankApp.pdb
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.BankAppUI.resources
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.exe
+F:\My Practices\Practices\Practices Set Two\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\BankApp\BankApp\obj\Debug\BankApp.pdb

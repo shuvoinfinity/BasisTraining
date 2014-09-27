@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\bin\Debug\SalaryCalcuateApp.exe.config
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.Form1.resources
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\bin\Debug\SalaryCalcuateApp.exe
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\bin\Debug\SalaryCalcuateApp.pdb
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.exe
+C:\Users\PC21\Desktop\SalaryCalcuateApp\SalaryCalcuateApp\obj\Debug\SalaryCalcuateApp.pdb
