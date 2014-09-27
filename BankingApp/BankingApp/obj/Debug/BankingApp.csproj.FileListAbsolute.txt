@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.BankInfoUI.resources
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\PC21\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\PC21\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
