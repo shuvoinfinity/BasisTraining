@@ -21,7 +21,7 @@ namespace BankingApp
 
         private void createButton_Click(object sender, EventArgs e)
         {
-            
+
             anAccount.number = accountNumberTextBox.Text;
             anAccount.name = customerNameTextBox.Text;
 

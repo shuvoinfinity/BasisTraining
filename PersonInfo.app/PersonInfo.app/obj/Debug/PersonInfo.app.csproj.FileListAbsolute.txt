@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\bin\Debug\PersonInfo.app.exe.config
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\bin\Debug\PersonInfo.app.exe
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\bin\Debug\PersonInfo.app.pdb
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.Form1.resources
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.Properties.Resources.resources
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.exe
+C:\Users\PC21\Desktop\PersonInfo.app\PersonInfo.app\obj\Debug\PersonInfo.app.pdb
