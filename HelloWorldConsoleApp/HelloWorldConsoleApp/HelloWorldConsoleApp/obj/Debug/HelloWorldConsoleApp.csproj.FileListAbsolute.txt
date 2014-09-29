@@ -1,0 +1,6 @@
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

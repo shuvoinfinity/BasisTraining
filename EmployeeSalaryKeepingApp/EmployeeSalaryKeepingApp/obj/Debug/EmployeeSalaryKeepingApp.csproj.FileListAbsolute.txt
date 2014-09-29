@@ -1,0 +1,2 @@
+D:\BASIS Training Contents\OOP0149\20 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+D:\BASIS Training Contents\OOP0149\20 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb

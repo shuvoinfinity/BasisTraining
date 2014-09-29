@@ -1,0 +1,9 @@
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe.config
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.pdb
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.HelloWorldAppUI.resources
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.Properties.Resources.resources
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csproj.GenerateResource.Cache
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.exe
+D:\BASIS Training Contents\13 Sep 2014\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.pdb

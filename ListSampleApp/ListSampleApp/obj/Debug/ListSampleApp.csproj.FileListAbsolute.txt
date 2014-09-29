@@ -1,0 +1,9 @@
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\bin\Debug\ListSampleApp.exe.config
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\bin\Debug\ListSampleApp.exe
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\bin\Debug\ListSampleApp.pdb
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.NumberUI.resources
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.Properties.Resources.resources
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.exe
+E:\Dropbox\Dropbox\BITM\FTFL\Daywise breakdown\Day 2\Samples\ListSampleApp\ListSampleApp\obj\Debug\ListSampleApp.pdb
