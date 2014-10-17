@@ -1,0 +1,9 @@
+D:\OOP-C#\Practice\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAssemblyReference.cache
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.SuperShopUI.resources
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache
+D:\OOP-C#\Practice\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+D:\OOP-C#\Practice\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+D:\OOP-C#\Practice\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
